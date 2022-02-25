@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Milanaaaa
+- 👀 I’m interested in programming, 3D-modeling, handcraft
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: mail: milanasirozhova@yandex.ru
